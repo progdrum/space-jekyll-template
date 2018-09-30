@@ -1,4 +1,9 @@
 ---
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: nrandecker/particle   # Will this work? Will I need to build and deploy first?
+
 collections:
   authors:
     output: true
