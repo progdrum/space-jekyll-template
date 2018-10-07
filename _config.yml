@@ -8,9 +8,9 @@ description: "Still rocking some projects n' things"
 username: Sean Barnett
 user_title: Sean Barnett - Awesome Dude
 email: brookforestscitech@gmail.com
-github_username:  progdrum
-linkedin_public_url: https://www.linkedin.com/in/sean-barnett-b54b8821/
-disqus_username: loremipsum
+github_username: progdrum
+linkedin_public_url: sean-barnett-b54b8821/
+# disqus_username: loremipsum
 # profile_picture:
 
 # Build settings
@@ -28,7 +28,7 @@ compress_html:
 # Links to include in menu navigation
 links:
   section_1:
-    - title: home
+    - title: Home
       url: /
       key_trigger: 1
     - title: Posts
@@ -44,11 +44,11 @@ links:
       url: /about
       key_trigger: 5
   section_2:
-    - title: github
+    - title: GitHub
       url: http://www.github.com/progdrum
       new_tab: true
       key_trigger: g
-    - title: search
+    - title: Search
       url: ""
       key_trigger: s #WARNING: search only works with "s"
 
